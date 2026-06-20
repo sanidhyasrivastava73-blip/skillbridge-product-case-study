@@ -26,3 +26,29 @@ An AI-powered career navigation platform designed to help students identify skil
 - Product Thinking
 - MVP Prioritization
 - Figma Prototyping
+ 
+## My Role
+
+• Conducted user research using Google Forms
+
+• Analyzed student career challenges
+
+• Defined product requirements
+
+• Designed user flows
+
+• Built MVP prototype in Figma
+
+• Created product case study documentation
+
+## Project Impact
+
+• Surveyed 12 students from diverse educational backgrounds
+
+• Identified major career-planning challenges
+
+• Validated demand for personalized career guidance
+
+• Designed a 4-screen MVP prototype
+
+• Created a complete product case study from research to solution
