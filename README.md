@@ -1,3 +1,4 @@
+![SkillBridge Prototype](c749e517-3168-4de7-b0f3-c1bf295990bd.png)
 # skillbridge-product-case-study
 AI-powered career navigation platform product case study
 # SkillBridge
